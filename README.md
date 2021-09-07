@@ -7,7 +7,7 @@
  <p align="center">
    My cord
  <p align="center">
-<img src="https://discord.c99.nl/widget/theme-5/852784347156185098.png">
+<img src="https://discord.c99.nl/widget/theme-2/852784347156185098.png">
 <p align="center">
   Pew
         Pew
